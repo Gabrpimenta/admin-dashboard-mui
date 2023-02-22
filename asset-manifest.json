@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/admin-dashboard-mui/static/css/main.3e9ea943.css",
-    "main.js": "/admin-dashboard-mui/static/js/main.6d63b5e9.js",
+    "main.js": "/admin-dashboard-mui/static/js/main.37dc3b69.js",
+    "static/media/user.png": "/admin-dashboard-mui/static/media/user.c283af44c3fa0906b036.png",
     "index.html": "/admin-dashboard-mui/index.html",
     "main.3e9ea943.css.map": "/admin-dashboard-mui/static/css/main.3e9ea943.css.map",
-    "main.6d63b5e9.js.map": "/admin-dashboard-mui/static/js/main.6d63b5e9.js.map"
+    "main.37dc3b69.js.map": "/admin-dashboard-mui/static/js/main.37dc3b69.js.map"
   },
   "entrypoints": [
     "static/css/main.3e9ea943.css",
-    "static/js/main.6d63b5e9.js"
+    "static/js/main.37dc3b69.js"
   ]
 }
